@@ -1,2 +1,2 @@
-# kubjublandingpage
-Kubjub NFT Marketplace landing page
+# Amrakori Landing Page
+
