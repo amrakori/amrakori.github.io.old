@@ -1,4 +1,4 @@
 # Amrakori Landing Page
 
-Site for Amrakori Design Studios
+My Site for Amrakori Design Studios
 
